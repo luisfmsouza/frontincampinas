@@ -1,0 +1,43 @@
+#header-center-logo-slogan-img {
+	background: linear-gradient(to bottom, #000000, #020553);
+}
+
+#header-center-logo-slogan-img .bg {
+	opacity: 0.15;
+}
+
+
+
+#subscribe-text-field {
+	background: linear-gradient(135deg, #00299c, #000736);
+}
+#price-single .bg {
+	background-image: url('../images/bg-blur-5.jpg');
+	background-size: auto;
+	-webkit-background-size: auto;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.12;
+}
+
+
+#price-single{
+	background: linear-gradient(135deg, #000000, #00056f);
+}
+
+
+#clients-text-3col-3row .bg {
+	background-image: url('../images/taras-shypka-424924.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.17;
+}
+#clients-text-3col-3row {
+	background: linear-gradient(135deg, #000000, #000000);
+}#footer-list-subscribe-2{
+	background: linear-gradient(to bottom, #000000, #000735);
+}
