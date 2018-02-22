@@ -213,7 +213,7 @@ ul {
     flex-wrap: wrap;
 }
 
-.row.flex-md-vstretch:before, 
+.row.flex-md-vstretch:before,
 .row.flex-md-vstretch:after {
     display: none;
 }
